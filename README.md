@@ -4,7 +4,7 @@
 Interactive dashboard analyzing sales, profits, and trends for Global Ventures Ltd. using the Microsoft Financial Sample dataset. Highlights include a 3.51% monthly profit decline, $1.83M sales spike in February 2014, and Europe outperforming the Americas.
 
 ## Live Interactive App
-Explore in Power BI Service: [Power BI App Link](paste-your-app-link-here)
+Explore in Power BI Service: https://app.powerbi.com/links/h4sqaMV7u8?ctid=4efce325-7314-4e78-b13b-5fc5c460ccc2&pbi_source=linkShare
 
 ## Downloadable PDF
 Full static view of all pages: [GlobalVenturesFinancialDashboard.pdf](GlobalVenturesFinancialDashboard.pdf)
