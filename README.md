@@ -31,3 +31,9 @@ Full static view of all pages: https://github.com/mimmer77/GlobalVentures-PowerB
 - Integrate live CRM data for real-time updates.
 
 Built for portfolio—feedback welcome!
+
+### License and Copyright
+
+This repository, including the Power BI report, is licensed under the MIT License. You are free to use and modify this work, provided you include the original copyright and license notice.
+
+© 2025 Maria Grönqvist-Lior
