@@ -7,7 +7,7 @@ Interactive dashboard analyzing sales, profits, and trends for Global Ventures L
 Explore in Power BI Service: https://app.powerbi.com/links/h4sqaMV7u8?ctid=4efce325-7314-4e78-b13b-5fc5c460ccc2&pbi_source=linkShare
 
 ## Downloadable PDF
-Full static view of all pages: [GlobalVenturesFinancialDashboard.pdf](GlobalVenturesFinancialDashboard.pdf)
+Full static view of all pages: https://github.com/mimmer77/GlobalVentures-PowerBI-Dashboard/blob/main/Report.pdf
 
 ## Project Details
 - **Tools**: Power BI Desktop & Service (Pro license)
